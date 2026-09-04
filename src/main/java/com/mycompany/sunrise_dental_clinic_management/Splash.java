@@ -46,7 +46,7 @@ public class Splash extends javax.swing.JFrame {
 
         jLabel3.setFont(new java.awt.Font("Century Gothic", 0, 18)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(0, 51, 102));
-        jLabel3.setText("Sunrise Dental Clinic Management System");
+        jLabel3.setText("Lading");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
