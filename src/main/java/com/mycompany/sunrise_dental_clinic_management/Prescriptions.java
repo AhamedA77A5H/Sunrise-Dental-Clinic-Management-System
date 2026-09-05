@@ -151,7 +151,7 @@ public class Prescriptions extends javax.swing.JFrame {
         jLabel10.setFont(new java.awt.Font("Century Gothic", 0, 12)); // NOI18N
         jLabel10.setForeground(new java.awt.Color(0, 102, 153));
         jLabel10.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        jLabel10.setText("Treatment");
+        jLabel10.setText("Cost");
 
         jLabel11.setFont(new java.awt.Font("Century Gothic", 0, 12)); // NOI18N
         jLabel11.setForeground(new java.awt.Color(0, 102, 153));
@@ -198,7 +198,7 @@ public class Prescriptions extends javax.swing.JFrame {
         jLabel14.setFont(new java.awt.Font("Century Gothic", 0, 12)); // NOI18N
         jLabel14.setForeground(new java.awt.Color(0, 102, 153));
         jLabel14.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        jLabel14.setText("Treatment");
+        jLabel14.setText("Quantity");
 
         jTextField2.setFont(new java.awt.Font("Century Gothic", 0, 12)); // NOI18N
 
